@@ -13,7 +13,7 @@ for(let i = 1; i <= 20; i = i+2)
 console.log(sum);
 
 
-//Prime Code
+//Prime Number Code
 
 let num = 7;
 let count = 0;
